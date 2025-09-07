@@ -1,0 +1,2 @@
+# Node modules should not be committed
+node_modules/
